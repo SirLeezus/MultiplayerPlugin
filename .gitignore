@@ -1,0 +1,61 @@
+# Unreal Engine
+Intermediate/
+Saved/
+DerivedDataCache/
+*.log
+*.ini
+*.db
+*.sqlite
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcuserdatad
+*.opensdf
+*.opendb
+*.opendb.lock
+*.pidb
+*.bak
+*.tmp
+*.pdb
+*.guid
+*.modules
+*.ilk
+*.nbos
+*.user
+*.xccheckout
+*.xcuserstate
+*.manifest
+*.obj
+*.asset
+*.asset.cache
+*.hmap
+*.import.cache
+*.umap
+*.uproject.backup
+*.lock
+*.unreal
+*.cmake
+*.log
+*.bin
+*.build.cs
+*.build.cs.backup
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+*.csproj
+*.userprefs
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
